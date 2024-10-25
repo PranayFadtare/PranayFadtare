@@ -1,16 +1,24 @@
-## Hi there 👋
+## Pranay Fadtare
 
-<!--
-**PranayFadtare/PranayFadtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pursuing Computer Engineering At Sardar Patel Institute of Technology
 
-Here are some ideas to get you started:
+Email: thisispranayfadtare@gmail.com <br>Student Email: pranay.fadtare22@spit.ac.in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MY TECH SKILLS
+
+• Languages: C, C++, Java, & Python <br>
+• Frontend: Html, CSS, JS  <br>
+• Frontend Frameworks: Bootstrap, Tailwind, React  <br>
+• Backend: Node & Express (JS) <br>
+• Databases: MySQL, SQLite & MongoDB, firebase (GCP) <br>
+• Version-Control: Gitlab, Github (git) <br>
+• Other tools: VSCode, WSL (Windows), Linux <br>
+• Presentation: MS Office, Canva & Figma <br>
+
+
+## MY PROJECTS
+
+• Made a Ecommerce Website with admin panel using PHP and MySql <br>
+• Made a Youtube MoodMeter Website using ML as Mini Project  <br>
+• Made a Coolie Management System Prototype Website as DBMS Mini-Project <br> 
+• Made many Javascript Based Mini Projects <br>
