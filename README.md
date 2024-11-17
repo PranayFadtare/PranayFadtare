@@ -9,7 +9,6 @@ Email: thisispranayfadtare@gmail.com <br>Student Email: pranay.fadtare22@spit.ac
 • Languages: C, C++, Java, & Python <br>
 • Frontend: Html, CSS, JS  <br>
 • Frontend Frameworks: Bootstrap, Tailwind, React  <br>
-• Backend: Node & Express (JS) <br>
 • Databases: MySQL, SQLite & MongoDB, firebase (GCP) <br>
 • Version-Control: Gitlab, Github (git) <br>
 • Other tools: VSCode, WSL (Windows), Linux <br>
