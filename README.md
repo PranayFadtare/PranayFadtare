@@ -19,7 +19,7 @@ Email: thisispranayfadtare@gmail.com <br>Student Email: pranay.fadtare22@spit.ac
 
 • Made a Ecommerce Website with admin panel using PHP and MySql <br>
 • Made a Youtube MoodMeter Website using ML as Mini Project  <br>
-• AI Summarizer using ReactJs
-• Crytocurrency price tracker using ReactJs
-• USA News headline website usinh ReactJs 
+• AI Summarizer using ReactJs <br>
+• Crytocurrency price tracker using ReactJs <br>
+• USA News headline website usinh ReactJs  <br>
 • Made many Javascript Based Mini Projects <br>
