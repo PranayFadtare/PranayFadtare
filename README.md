@@ -6,7 +6,7 @@ Email: thisispranayfadtare@gmail.com <br>Student Email: pranay.fadtare22@spit.ac
 
 ## MY TECH SKILLS
 
-• Languages: C, C++, Java, & Python <br>
+• Languages: C, C++, Java, PHP & Python <br>
 • Frontend: Html, CSS, JS  <br>
 • Frontend Frameworks: Bootstrap, Tailwind, React  <br>
 • Databases: MySQL, SQLite & MongoDB, firebase (GCP) <br>
@@ -19,5 +19,7 @@ Email: thisispranayfadtare@gmail.com <br>Student Email: pranay.fadtare22@spit.ac
 
 • Made a Ecommerce Website with admin panel using PHP and MySql <br>
 • Made a Youtube MoodMeter Website using ML as Mini Project  <br>
-• Made a Coolie Management System Prototype Website as DBMS Mini-Project <br> 
+• AI Summarizer using ReactJs
+• Crytocurrency price tracker using ReactJs
+• USA News headline website usinh ReactJs 
 • Made many Javascript Based Mini Projects <br>
