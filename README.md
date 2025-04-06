@@ -8,8 +8,10 @@ Email: thisispranayfadtare@gmail.com <br>Student Email: pranay.fadtare22@spit.ac
 
 • Languages: C, C++, Java, PHP & Python <br>
 • Frontend: Html, CSS, JS  <br>
-• Frontend Frameworks: Bootstrap, Tailwind, React  <br>
-• Databases: MySQL, SQLite & MongoDB, firebase (GCP) <br>
+• Frontend Frameworks and Libraries: Bootstrap, Tailwind, React, Next.js  <br>
+• Backend Technologies: Node.js <br>
+• Databases: MySQL, MongoDB, firebase (GCP) <br>
+• Containerization: Docker<br>
 • Version-Control: Gitlab, Github (git) <br>
 • Other tools: VSCode, WSL (Windows), Linux <br>
 • Presentation: MS Office, Canva & Figma <br>
