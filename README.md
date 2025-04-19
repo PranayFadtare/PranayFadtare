@@ -1,3 +1,4 @@
+<h1 align="center">Pranay Fadtare</h1>
 <h3 align="center">Pursuing Computer Engineering At Sardar Patel Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayfadtare&label=Profile%20views&color=0e75b6&style=flat" alt="pranayfadtare" /> </p>
